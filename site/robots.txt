@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hazcasino-online.org/sitemap.xml

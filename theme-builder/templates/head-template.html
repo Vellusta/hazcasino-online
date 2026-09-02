@@ -1,0 +1,59 @@
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <!-- Favicons -->
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+
+    <!-- Apple / Android -->
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    <!-- Meta Theme Color / App Names -->
+    <meta name="theme-color" content="{{THEME_COLOR}}">
+    <meta name="apple-mobile-web-app-title" content="{{TITLE}}">
+    <meta name="application-name" content="{{TITLE}}">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{CSS_HREF}}" type="text/css" media="all" />
+    <link rel="stylesheet" href="{{ASSET_BASE}}assets/css/colors.css" />
+
+    <!-- Robots -->
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    {{GOOGLE_VERIFICATION}}
+
+    <style>
+        img:is([sizes="auto" i], [sizes^="auto," i]) {
+            contain-intrinsic-size: 3000px 1500px;
+        }
+    </style>
+
+    {{HREFLANGS}}
+    {{EXTRA_HEAD}}
+
+    <title>{{TITLE}}</title>
+    <meta name="description" content="{{DESCRIPTION}}" />
+    <link rel="canonical" href="{{CANONICAL}}" />
+
+    <!-- Open Graph -->
+    <meta property="og:locale" content="{{OG_LOCALE}}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{TITLE}}" />
+    <meta property="og:description" content="{{DESCRIPTION}}" />
+    <meta property="og:url" content="{{CANONICAL}}" />
+    <meta property="og:site_name" content="{{TITLE}}" />
+    <meta property="og:image" content="{{OG_IMAGE}}" />
+    <meta property="article:modified_time" content="{{LASTMOD}}" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{TITLE}}" />
+    <meta name="twitter:description" content="{{DESCRIPTION}}" />
+    <meta name="twitter:image" content="{{OG_IMAGE}}" />
+
+    <link rel="dns-prefetch" href="https://ajax.googleapis.com/" />
+</head>

@@ -1,0 +1,56 @@
+<div class="header">
+    <div class="header__inner">
+        <a class="logo" href="{{LOGO_HREF}}">
+            <img src="{{ASSET_BASE}}assets/img/{{LOGO_SRC}}" alt="{{SITE_NAME}} logo">
+        </a>
+
+        <div class="header__menu">
+            <!-- Авто-меню из config.navigation -->
+            {{NAV}}
+        </div>
+
+        <div class="header__buttons">
+            {{LANG_SWITCHER}}
+            <a href="{{CTA_SIGNUP_URL}}" rel="nofollow" class="btn btn--secondary btn--signup">{{CTA_SIGNUP_LABEL}}</a>
+            <a href="{{CTA_SIGNIN_URL}}" rel="nofollow" class="btn btn--tertiary btn--signin">{{CTA_SIGNIN_LABEL}}</a>
+            <div class="menu-toggle-wrapper">
+                <div class="menu-toggle-button">
+                    <span></span><span></span><span></span><span></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mobile-menu">
+    <div class="mobile-menu__content">
+        <img src="{{ASSET_BASE}}assets/img/{{MOBILE_BANNER_SRC}}" alt="Menu Welcome Bonus Banner">
+        <a href="{{CTA_MOBILE_URL}}" rel="nofollow" class="btn btn--tertiary">{{CTA_MOBILE_LABEL}}</a>
+    </div>
+    <!-- Мобильное меню = те же пункты что и NAV -->
+    <ul class="mobile-nav">
+        {{NAV_LIST}}
+    </ul>
+</div>
+
+<div class="hero">
+    <div class="hero__inner">
+        <div class="hero__background">
+            <img src="{{ASSET_BASE}}assets/img/{{HERO_BG_SRC}}" alt="{{SITE_NAME}} Hero Banner">
+        </div>
+        <div class="wrapper">
+            <div class="hero__content">
+                <span>{{HERO_LINE1}}</span>
+                <span>{{HERO_LINE2}}</span>
+                <span>{{HERO_LINE3}}</span>
+                <a href="{{HERO_CTA_URL}}" rel="nofollow" class="btn btn--tertiary">{{HERO_CTA_LABEL}}</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="blocks">
+    <div class="blocks__inner">
+        {{HEADER_BLOCKS}}
+    </div>
+</div>

@@ -1,0 +1,458 @@
+{
+  "domain": "hazcasino-online.org",
+  "canonical": "https://hazcasino-online.org/",
+  "siteName": "Haz Casino",
+  "googleVerification": "",
+  "locales": [
+    "de",
+    "de-DE",
+    "en"
+  ],
+  "defaultLocale": "de",
+  "rootCanonicalLocale": "de",
+  "rootCanonicalPath": "/de/",
+  "langFlags": {
+    "de": "de.png",
+    "en": "en.png"
+  },
+  "header": {
+    "logo": {
+      "href": {
+        "de": "/",
+        "en": "/en/"
+      },
+      "src": "logo.svg"
+    },
+    "cta": {
+      "signup": {
+        "label": {
+          "de": "Jetzt Spielen",
+          "en": "Play Now"
+        },
+        "url": {
+          "de": "/go/",
+          "en": "/go/"
+        }
+      },
+      "signin": {
+        "label": {
+          "de": "Anmelden",
+          "en": "Sign In"
+        },
+        "url": {
+          "de": "/go/",
+          "en": "/go/"
+        }
+      },
+      "mobile": {
+        "label": {
+          "de": "Bonus Holen",
+          "en": "Get Bonus"
+        },
+        "url": {
+          "de": "/go/",
+          "en": "/go/"
+        }
+      }
+    },
+    "mobileBanner": {
+      "src": "mobile_banner.webp"
+    },
+    "hero": {
+      "bg": {
+        "src": "banner.webp"
+      },
+      "line1": {
+        "de": "Haz Casino Deutschland",
+        "en": "Haz Casino Europe"
+      },
+      "line2": {
+        "de": "1000€ Bonus + 125 Freispiele",
+        "en": "€1000 Bonus + 125 Free Spins"
+      },
+      "line3": {
+        "de": "Wager-Free Boni | Crypto-Zahlungen | 24/7 Support",
+        "en": "Wager-Free Bonuses | Crypto Payments | 24/7 Support"
+      },
+      "cta": {
+        "label": {
+          "de": "1000€ Bonus Sichern",
+          "en": "Claim €1000 Bonus"
+        },
+        "url": {
+          "de": "/go/",
+          "en": "/go/"
+        }
+      }
+    },
+    "blocks": [
+      {
+        "href": {
+          "de": "/go/",
+          "en": "/go/"
+        },
+        "icon": "pokies.png",
+        "title": {
+          "de": "5.000+ Spiele",
+          "en": "5,000+ Games"
+        },
+        "text": {
+          "de": "Slots von Top-Providern - Pragmatic Play, NetEnt, Evolution Gaming",
+          "en": "Slots from top providers - Pragmatic Play, NetEnt, Evolution Gaming"
+        }
+      },
+      {
+        "href": {
+          "de": "/go/",
+          "en": "/go/"
+        },
+        "icon": "live-casino.png",
+        "title": {
+          "de": "15% Cashback",
+          "en": "15% Cashback"
+        },
+        "text": {
+          "de": "Wöchentliches Cashback ohne Umsatzbedingungen für VIPs",
+          "en": "Weekly cashback without wagering requirements for VIPs"
+        }
+      },
+      {
+        "href": {
+          "de": "/go/",
+          "en": "/go/"
+        },
+        "icon": "treasure.png",
+        "title": {
+          "de": "Crypto Welcome",
+          "en": "Crypto Welcome"
+        },
+        "text": {
+          "de": "BTC, ETH, LTC mit Auszahlungen in 1-3 Stunden",
+          "en": "BTC, ETH, LTC with withdrawals in 1-3 hours"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "title": {
+      "de": "Haz Casino DE | 1000€ + 125 Spins Wager-Free",
+      "en": "Haz Casino EU | €1000 + 125 Spins Wager-Free"
+    },
+    "description": {
+      "de": "Spiele bei Haz mit 1000€ wager-free Bonus + 125 Freispiele. 5.000+ Slots, 15% Cashback, Crypto-Support. Schnelle Auszahlungen garantiert.",
+      "en": "Play at Haz with €1000 wager-free bonus + 125 free spins. 5,000+ slots, 15% cashback, crypto support. Fast withdrawals guaranteed."
+    },
+    "keywords": {
+      "de": "haz casino, online casino deutschland, wager free bonus, 1000 euro bonus, freispiele, crypto casino, cashback, pragmatic play, evolution gaming, bitcoin casino",
+      "en": "haz casino, online casino europe, wager free bonus, 1000 euro bonus, free spins, crypto casino, cashback, pragmatic play, evolution gaming, bitcoin casino"
+    }
+  },
+  "seoDefaults": {
+    "title": "Haz Casino - €1000 Wager-Free Bonus + 125 Free Spins | Crypto & Fast Withdrawals",
+    "description": "Start at Haz Casino with €1000 welcome bonus without wagering requirements + 125 free spins. 5,000+ slots, live dealers, up to 15% cashback, crypto support, withdrawals in hours.",
+    "keywords": "Haz Casino, Online Casino Europe, Wager-Free Bonus, €1000 Welcome Bonus, Free Spins, Live Casino, Crypto Casino, Bitcoin Casino, Fast Withdrawals, Pragmatic Play, NetEnt, Evolution Gaming, Cashback, VIP Program, Daily Drops",
+    "ogImage": "https://hazcasino-online.org/assets/images/haz-og.jpg",
+    "themeColor": "#7c3aed",
+    "extraHead": ""
+  },
+  "palette": {
+    "header": {
+      "bg": "#1a0d2e"
+    },
+    "tertiary": {
+      "default": "#c084fc",
+      "hover": "#d8b4fe"
+    },
+    "secondary": {
+      "default": "#2d1b4e",
+      "hover": "#3d2661"
+    },
+    "primary": {
+      "default": "#a855f7",
+      "hover": "#c084fc"
+    },
+    "block": {
+      "bg": "#2d1b4e",
+      "descriptionFirstText": "#c084fc",
+      "descriptionLastText": "#f3f4f6"
+    },
+    "menu": {
+      "hoverText": "#c084fc",
+      "activeBg": "#2d1b4e"
+    },
+    "table": {
+      "headerBg": "#2d1b4e",
+      "headerText": "#f3f4f6",
+      "zebraBg": "#1a0d2e",
+      "zebraText": "#f3f4f6",
+      "borderColor": "#a855f7"
+    },
+    "offer": {
+      "logoBg": "#2d1b4e",
+      "ratingBg": "#a855f7",
+      "ratingText": "#ffffff",
+      "accentColor": "#c084fc"
+    },
+    "faq": {
+      "itemBg": "#2d1b4e",
+      "itemText": "#e5e7eb",
+      "titleBg": "#3d2661",
+      "titleText": "#f3f4f6",
+      "contentBg": "#1a0d2e",
+      "contentText": "#f9fafb",
+      "contentBorder": "#2d1b4e",
+      "iconColor": "#c084fc"
+    },
+    "list": {
+      "bullet": "#c084fc",
+      "hoverBullet": "#d8b4fe"
+    },
+    "footer": {
+      "bg": "#1a0d2e",
+      "linkText": "#e5e7eb",
+      "linkHover": "#c084fc",
+      "borderTop": "#2d1b4e"
+    },
+    "button": {
+      "primaryBg": "#a855f7",
+      "primaryHover": "#c084fc",
+      "primaryText": "#ffffff",
+      "secondaryBg": "#2d1b4e",
+      "secondaryHover": "#3d2661",
+      "secondaryText": "#f3f4f6"
+    },
+    "text": {
+      "primary": "#f9fafb",
+      "secondary": "#e5e7eb",
+      "light": "#9ca3af",
+      "inverse": "#1a0d2e"
+    },
+    "background": {
+      "main": "#1a0d2e",
+      "secondary": "#2d1b4e",
+      "dark": "#0f0720"
+    },
+    "accent": {
+      "purple": "#a855f7",
+      "lightPurple": "#c084fc",
+      "darkPurple": "#9333ea",
+      "deepBlue": "#2d1b4e",
+      "lightBlue": "#3d2661",
+      "darkBlue": "#1a0d2e",
+      "violet": "#a855f7",
+      "indigo": "#7c3aed"
+    }
+  },
+  "sitemap": {
+    "defaultPriority": "0.8"
+  },
+  "partials": {
+    "header": "templates/partials/header.html",
+    "footer": "templates/partials/footer.html"
+  },
+  "assets": {
+    "global": "templates/assets",
+    "css": "assets/css/style.css",
+    "mode": "root",
+    "publicBase": "/"
+  },
+  "scripts": {
+    "body": [
+      "assets/js/app.js"
+    ]
+  },
+  "navigation": [
+    {
+      "label": {
+        "de": "Home",
+        "en": "Home"
+      },
+      "toKey": "home"
+    },
+    {
+      "label": {
+        "de": "Bonus",
+        "en": "Bonuses"
+      },
+      "toKey": "bonuses"
+    },
+    {
+      "label": {
+        "de": "Registrierung / Login",
+        "en": "Register / Login"
+      },
+      "toKey": "auth"
+    },
+    {
+      "label": {
+        "de": "Über uns",
+        "en": "About"
+      },
+      "toKey": "about"
+    },
+    {
+      "label": {
+        "de": "Kontakt",
+        "en": "Contact"
+      },
+      "toKey": "contacts"
+    }
+  ],
+  "footer": {
+    "sections": [
+      {
+        "title": {
+          "de": "Schnellzugriff",
+          "en": "Quick Links"
+        },
+        "items": [
+          {
+            "toKey": "home"
+          },
+          {
+            "toKey": "bonuses"
+          },
+          {
+            "toKey": "auth"
+          },
+          {
+            "toKey": "about"
+          },
+          {
+            "toKey": "contacts"
+          }
+        ]
+      },
+      {
+        "title": {
+          "de": "Rechtliches",
+          "en": "Legal"
+        },
+        "items": [
+          {
+            "toKey": "responsible-gambling"
+          }
+        ]
+      }
+    ]
+  },
+  "pages": [
+    {
+      "key": "home",
+      "priority": "1.0",
+      "i18n": {
+        "de": {
+          "path": "/",
+          "contentPath": "theme/pages/home.de.html",
+          "title": "Haz Casino DE | 1000€ Wager-Free + 125 Spins",
+          "description": "Haz Casino: 1000€ ohne Umsatz + 125 Freispiele. 5.000+ Slots, 15% VIP-Cashback, Crypto-Auszahlung in Stunden. Jetzt starten!"
+        },
+        "de-DE": {
+          "path": "/de/",
+          "contentPath": "theme/pages/home.de.html",
+          "title": "Haz Casino DE | 1000€ Wager-Free + 125 Spins",
+          "description": "Haz Casino: 1000€ ohne Umsatz + 125 Freispiele. 5.000+ Slots, 15% VIP-Cashback, Crypto-Auszahlung in Stunden. Jetzt starten!"
+        },
+        "en": {
+          "path": "/en/",
+          "contentPath": "theme/pages/home.en.html",
+          "title": "Haz Casino EU | €1000 Wager-Free + 125 Spins",
+          "description": "Haz Casino: €1000 no wagering + 125 free spins. 5,000+ slots, 15% VIP cashback, crypto withdrawal in hours. Start now!"
+        }
+      }
+    },
+    {
+      "key": "bonuses",
+      "priority": "0.9",
+      "i18n": {
+        "de": {
+          "path": "/bonuses/",
+          "contentPath": "theme/pages/bonuses.de.html",
+          "title": "Haz Boni | 1000€ Wager-Free + Daily Drops DE",
+          "description": "Alle Haz Boni: 1000€ Match ohne Umsatz, 15% Cashback, Daily Drops, Crypto-Extras. Faire Bedingungen - transparent erklärt."
+        },
+        "en": {
+          "path": "/en/bonuses/",
+          "contentPath": "theme/pages/bonuses.en.html",
+          "title": "Haz Bonuses | €1000 Wager-Free + Daily Drops",
+          "description": "All Haz bonuses: €1000 match no wagering, 15% cashback, daily drops, crypto extras. Fair terms - transparently explained."
+        }
+      }
+    },
+    {
+      "key": "auth",
+      "priority": "0.8",
+      "i18n": {
+        "de": {
+          "path": "/register-login/",
+          "contentPath": "theme/pages/auth.de.html",
+          "title": "Registrierung & Login | Haz Casino Account DE",
+          "description": "Haz Account in 3 Minuten: Schnelle Verifizierung, sicherer Login, 2FA-Schutz. Komplette Anleitung mit Sicherheitstipps."
+        },
+        "en": {
+          "path": "/en/register-login/",
+          "contentPath": "theme/pages/auth.en.html",
+          "title": "Register & Login | Haz Casino Account",
+          "description": "Haz account in 3 minutes: fast verification, secure login, 2FA protection. Complete guide with security tips."
+        }
+      }
+    },
+    {
+      "key": "about",
+      "priority": "0.7",
+      "i18n": {
+        "de": {
+          "path": "/about/",
+          "contentPath": "theme/pages/about.de.html",
+          "title": "Über Haz | Curacao-Lizenz & Wager-Free Casino",
+          "description": "Haz Casino Story: Curacao-lizenziert, 5.000+ Spiele, Crypto-fokussiert, VIP-Programm. Faire Boni seit Launch - ehrlich erklärt."
+        },
+        "en": {
+          "path": "/en/about/",
+          "contentPath": "theme/pages/about.en.html",
+          "title": "About Haz | Curacao License & Wager-Free Casino",
+          "description": "Haz Casino story: Curacao-licensed, 5,000+ games, crypto-focused, VIP program. Fair bonuses since launch - honestly explained."
+        }
+      }
+    },
+    {
+      "key": "contacts",
+      "priority": "0.6",
+      "i18n": {
+        "de": {
+          "path": "/contact/",
+          "contentPath": "theme/pages/contacts.de.html",
+          "title": "Haz Kontakt | 24/7 Live-Chat & Email-Support",
+          "description": "Haz Support rund um die Uhr: Live-Chat unter 2 Min, Email-Support, FAQ. Hilfe bei Auszahlungen, Boni, technischen Fragen."
+        },
+        "en": {
+          "path": "/en/contact/",
+          "contentPath": "theme/pages/contacts.en.html",
+          "title": "Haz Contact | 24/7 Live Chat & Email Support",
+          "description": "Haz support around the clock: live chat under 2 min, email support, FAQ. Help with withdrawals, bonuses, technical issues."
+        }
+      }
+    },
+    {
+      "key": "responsible-gambling",
+      "priority": "0.5",
+      "i18n": {
+        "de": {
+          "path": "/responsible-gambling/",
+          "contentPath": "theme/pages/responsible-gambling.de.html",
+          "title": "Verantwortungsvoll Spielen | Limits bei Haz",
+          "description": "Haz Tools für sicheres Spielen: Einzahlungslimits, Session-Timer, Selbstausschluss. Links zu BZgA und Hilfsorganisationen."
+        },
+        "en": {
+          "path": "/en/responsible-gambling/",
+          "contentPath": "theme/pages/responsible-gambling.en.html",
+          "title": "Responsible Gaming | Limits at Haz Casino",
+          "description": "Haz tools for safe play: deposit limits, session timer, self-exclusion. Links to GamCare and help organizations."
+        }
+      }
+    }
+  ],
+  "dropGlue": {
+    "domain": "https://casino-haz.com/"
+  }
+}

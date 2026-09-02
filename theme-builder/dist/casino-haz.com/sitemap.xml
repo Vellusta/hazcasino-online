@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://casino-haz.com/</loc>
+    <lastmod>2026-04-30T16:09:43.374Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://casino-haz.com/"/>
+    <xhtml:link rel="alternate" hreflang="de-DE" href="https://casino-haz.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://casino-haz.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://casino-haz.com/"/>
+  </url>
+  <url>
+    <loc>https://casino-haz.com/bonuses/</loc>
+    <lastmod>2026-04-30T16:09:43.372Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://casino-haz.com/bonuses/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://casino-haz.com/en/bonuses/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://casino-haz.com/bonuses/"/>
+  </url>
+  <url>
+    <loc>https://casino-haz.com/register-login/</loc>
+    <lastmod>2026-04-30T16:09:43.371Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://casino-haz.com/register-login/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://casino-haz.com/en/register-login/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://casino-haz.com/register-login/"/>
+  </url>
+  <url>
+    <loc>https://casino-haz.com/about/</loc>
+    <lastmod>2026-04-30T16:09:43.373Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://casino-haz.com/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://casino-haz.com/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://casino-haz.com/about/"/>
+  </url>
+  <url>
+    <loc>https://casino-haz.com/contact/</loc>
+    <lastmod>2026-04-30T16:09:43.370Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://casino-haz.com/contact/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://casino-haz.com/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://casino-haz.com/contact/"/>
+  </url>
+  <url>
+    <loc>https://casino-haz.com/responsible-gambling/</loc>
+    <lastmod>2026-04-30T16:09:43.373Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://casino-haz.com/responsible-gambling/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://casino-haz.com/en/responsible-gambling/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://casino-haz.com/responsible-gambling/"/>
+  </url>
+</urlset>

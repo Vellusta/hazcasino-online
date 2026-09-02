@@ -1,0 +1,26 @@
+.header { background-color: #1a0d2e; }
+.btn--tertiary { background-color: #c084fc; }
+.btn--tertiary:hover { background-color: #d8b4fe; }
+.btn--secondary { background-color: #2d1b4e; }
+.btn--secondary:hover { background-color: #3d2661; }
+.faq__item { background-color: #2d1b4e; }
+.faq__item { color: #e5e7eb; }
+.faq__title { background-color: #3d2661; }
+.faq__title { color: #f3f4f6; }
+.faq__content { background-color: #1a0d2e; }
+.faq__content { color: #f9fafb; }
+.faq__content { border-color: #2d1b4e; }
+.block { background-color: #2d1b4e; }
+.block__description span:first-child { color: #c084fc; }
+.block__description span:last-child { color: #f3f4f6; }
+.header__menu ul a:hover { color: #c084fc; }
+.content__inner table th { background-color: #2d1b4e; }
+.content__inner table th { color: #f3f4f6; }
+.content__inner table tr:nth-child(2n) { background-color: #1a0d2e; }
+.content__inner table tr:nth-child(2n) { color: #f3f4f6; }
+.offer__logo { background-color: #2d1b4e; }
+.offer__rating-wrapper { background: #a855f7 url(../../img/star.svg) no-repeat 8px 50%; }
+.offer__rating-wrapper { color: #ffffff; }
+.content__inner ul li:before { color: #c084fc; }
+.footer__menu ul a { color: #e5e7eb; }
+.footer__menu ul a:hover { color: #c084fc; }
