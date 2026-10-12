@@ -452,7 +452,9 @@
       }
     }
   ],
-  "dropGlue": {
-    "domain": "https://casino-haz.com/"
+  "migrateGlue": {
+    "canonicalBase": "https://hazcasino-online.org",
+    "rootSubfolder": "/de/",
+    "homeHreflang": "<link rel=\"alternate\" hreflang=\"de\" href=\"https://casino-haz.com/\" />\n  <link rel=\"alternate\" hreflang=\"de-DE\" href=\"https://hazcasino-online.org/de/\" />\n  <link rel=\"alternate\" hreflang=\"en\" href=\"https://hazcasino-online.org/en/\" />\n  <link rel=\"alternate\" hreflang=\"x-default\" href=\"https://casino-haz.com/\" />"
   }
 }

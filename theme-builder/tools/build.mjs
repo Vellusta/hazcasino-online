@@ -391,7 +391,8 @@ async function main(){
         const rootLangEntry = Object.entries(page.i18n).find(([, e]) => e.path === "/");
         const isHomePage = !!rootLangEntry;
         const xDefaultOverride = (isHomePage && dropGlueDomain) ? dropGlueDomain : undefined;
-        const hrefLangsBlock = buildHrefLangs(Object.keys(page.i18n), defaultLocale, urlMapByKey[page.key], xDefaultOverride);
+        let hrefLangsBlock = buildHrefLangs(Object.keys(page.i18n), defaultLocale, urlMapByKey[page.key], xDefaultOverride);
+        if (cfg.migrateGlue && isHomePage) hrefLangsBlock = cfg.migrateGlue.homeHreflang;
         const alternatesAll = Object.entries(urlMapByKey[page.key]).map(([hl, href]) => ({ hreflang: hl, href }));
         const xDefaultHref = xDefaultOverride || urlMapByKey[page.key][defaultLocale] || Object.values(urlMapByKey[page.key])[0];
         if (xDefaultHref) alternatesAll.push({ hreflang: "x-default", href: xDefaultHref });
@@ -423,7 +424,7 @@ async function main(){
             const merged = {
                 ...cfg.seoDefaults,
                 ...p,
-                canonical: (p.path === "/" && dropGlueDomain) ? dropGlueDomain : urlMapByKey[page.key][lang],
+                canonical: cfg.migrateGlue ? (cfg.migrateGlue.canonicalBase + (p.path === "/" ? cfg.migrateGlue.rootSubfolder : p.path)) : ((p.path === "/" && dropGlueDomain) ? dropGlueDomain : urlMapByKey[page.key][lang]),
                 ogLocale: ogLocale(lang),
                 hrefLangs: hrefLangsBlock,
                 lastmod: lastmodISO
